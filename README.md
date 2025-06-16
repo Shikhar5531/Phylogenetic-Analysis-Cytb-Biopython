@@ -13,5 +13,4 @@ The aim of this project is to construct and analyze a phylogenetic tree to evalu
 For this project, I have employed methods for constructing phylogenetic trees using **distance matrices** derived from genetic data. By analyzing the resulting tree, I aim to evaluate the evolutionary closeness between different species. The project highlights the importance of phylogenetic analysis in understanding species relationships and evolutionary processes.
 
 📂 Data Description
-
 The accession numbers for the 25 species used in this analysis are listed in data/accessions.json. The sequences were retrieved from the NCBI nucleotide database using Biopython's Entrez module.
