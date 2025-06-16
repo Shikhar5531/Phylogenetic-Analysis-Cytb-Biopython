@@ -16,5 +16,8 @@ For this project, I have employed methods for constructing phylogenetic trees us
 
 The accession numbers for the 25 species used in this analysis are listed in data/accessions.json. The sequences were retrieved from the NCBI nucleotide database using Biopython's Entrez module.
 
+🌳 Result  
+Here’s the phylogenetic tree generated in this project:
+
 ![phylo_tree](https://github.com/user-attachments/assets/7fac8e36-e122-4f8b-a585-52ce3bf05981)
 
