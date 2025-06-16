@@ -1,5 +1,7 @@
 🧬 Phylogenetic Analysis Using Biopython and Cytochrome b Gene Sequences
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 📘 Introduction  
 In the realm of evolutionary biology and molecular genetics, understanding the evolutionary relationships between species is crucial. **Phylogeny**, the study of evolutionary relationships among groups of organisms, utilizes phylogenetic trees to visualize and analyze these relationships. Each branch in a phylogenetic tree represents a lineage, with the lengths and patterns of branches indicating the evolutionary distances and relatedness between species.
 
