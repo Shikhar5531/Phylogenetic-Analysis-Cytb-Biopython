@@ -23,3 +23,6 @@ Here’s the phylogenetic tree generated in this project:
 
 ![phylo_tree](https://github.com/user-attachments/assets/7fac8e36-e122-4f8b-a585-52ce3bf05981)
 
+
+
+**Note:** This was my first hands-on project in computational biology. Built using BioPython, it helped me understand tree structures, clades, and comparative genomics.
