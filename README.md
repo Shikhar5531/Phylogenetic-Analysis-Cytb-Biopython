@@ -25,4 +25,4 @@ Here’s the phylogenetic tree generated in this project:
 
 
 
-**Note:** This was my first hands-on project in computational biology. Built using BioPython, it helped me understand tree structures, clades, and comparative genomics.
+**Note:** This is my first hands-on project in computational biology, and it was primarily focused on familiarizing myself with Biopython's phylogenetic tools and MSA. While it doesn't solve a specific biological hypothesis, it helped me build the foundation for more advanced analyses later.
